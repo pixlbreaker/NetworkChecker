@@ -125,9 +125,9 @@ public class NetworkChecker {
     public static void sendEmail(String ip){
         
         // Variables
-        String username = "pixldevbot@gmail.com";
-        String recipname = "michaelskotar@gmail.com";
-        String password = "aperturelabs";
+        String username = "******";
+        String recipname = "********";
+        String password = "******";
         
         // Properties
         Properties props = new Properties();
